@@ -1,4 +1,4 @@
-package com.pharmacy.customer.infraestructure;
+package com.pharmacy.customer.infraestructure.out;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,8 +8,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.Properties;
 
-import com.mysql.cj.PreparedQuery;
-import com.mysql.cj.xdevapi.Result;
 import com.pharmacy.customer.domain.entities.Customer;
 import com.pharmacy.customer.domain.service.CustomerService;
 

@@ -1,7 +1,7 @@
 package com.pharmacy;
 
 
-import com.pharmacy.customer.infraestructure.CustomerUi;
+import com.pharmacy.customer.infraestructure.in.CustomerUi;
 
 public class Main {
     public static void main(String[] args) {
